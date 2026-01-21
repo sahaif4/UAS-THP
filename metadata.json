@@ -1,0 +1,5 @@
+{
+  "name": "UAS Aplikasi Komputer - PEPI",
+  "description": "Sistem ujian online terintegrasi untuk mata kuliah Aplikasi Komputer dengan fitur anti-curang, sinkronisasi Google Sheets, dan pemulihan sesi otomatis.",
+  "requestFramePermissions": []
+}
